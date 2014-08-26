@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: . DDLExtractor_lib/classes12.jar
+Main-Class: it.pointec.DDLExtractor.DDLExtractor
